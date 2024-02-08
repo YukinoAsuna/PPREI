@@ -43,4 +43,4 @@ Any scientific publications that use our codes should cite the following paper a
  ```
  ```
 
-If you have any questions for our paper or codes, please send an email to tianchangxin@ruc.edu.cn.
+If you have any questions for our paper or codes, please send an email to zxweng0701@gmail.com.
