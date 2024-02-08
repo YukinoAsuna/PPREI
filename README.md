@@ -36,11 +36,22 @@ run network_stats_PPR
 ```
 python network_stats_PPR.py -f Brazil.mat -r 128
 ```
-
+## Acknowledgements:
+Most codes are from https://github.com/konsotirop/Invert_Embeddings, which is the official implementation of the paper:
+        DeepWalking Backwards: From Embeddings Back to Graphs
+        Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, Charalampos E. Tsourakakis
 ## Reference:
 Any scientific publications that use our codes should cite the following paper as the reference:
 
- ```
+```
+ @inproceedings{zhang&weng2024PPREI,
+     title = "Towards Deeper Understanding of PPR-based Embedding Approaches: A Topological Perspective",
+     author = {Xingyi Zhang and
+     		  Zixuan Weng and
+     		  Sibo wang},
+     booktitle = {{WWW}},
+     year = {2024},
+ }
  ```
 
 If you have any questions for our paper or codes, please send an email to zxweng0701@gmail.com.
