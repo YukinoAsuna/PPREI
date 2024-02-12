@@ -1,7 +1,6 @@
 '''
-Most codes are from https://github.com/konsotirop/Invert_Embeddings, which is the official implementation of the paper:
-        DeepWalking Backwards: From Embeddings Back to Graphs
-        Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, Charalampos E. Tsourakakis
+Part of the code refers to https://github.com/konsotirop/Invert_Embeddings, which is the official implementation of the paper:
+> Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, Charalampos E. Tsourakakis. "DeepWalking Backwards: From Embeddings Back to Graphs." ICML 2021.
 '''
 
 #import mkl
