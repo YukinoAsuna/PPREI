@@ -49,7 +49,7 @@ run network_stats_PPR
 ```
 python network_stats_PPR.py -f Brazil.mat -r 128
 ```
-**Download datasets**
+## Download datasets
 https://drive.google.com/drive/folders/1zsCFA7U8ZKV1bg5g9IwNxqf1TzgGwokw?usp=sharing
 ## Acknowledgements:
 Part of the code refers to https://github.com/konsotirop/Invert_Embeddings, which is the official implementation of the paper:
